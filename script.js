@@ -2,7 +2,7 @@ const projects = [
     {
       id: 1,
       title: "Digital Clock",
-      demo: "https://yourusername.github.io/js-projects/day1/",
+      demo: "https://koya-madhusudhana-rao.github.io/100DaysJS/Day1/",
       code: "https://github.com/yourusername/js-projects/tree/main/day1",
       description: "A real-time digital clock using JS."
     },
