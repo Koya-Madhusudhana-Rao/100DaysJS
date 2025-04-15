@@ -3,14 +3,14 @@ const projects = [
       id: 1,
       title: "Digital Clock",
       demo: "https://koya-madhusudhana-rao.github.io/100DaysJS/Day1/",
-      code: "https://github.com/yourusername/js-projects/tree/main/day1",
+      code: "https://github.com/Koya-Madhusudhana-Rao/100DaysJS/tree/main/Day1",
       description: "A real-time digital clock using JS."
     },
     {
       id: 2,
       title: "To-Do List",
-      demo: "https://yourusername.github.io/js-projects/day2/",
-      code: "https://github.com/yourusername/js-projects/tree/main/day2",
+      demo: "https://koya-madhusudhana-rao.github.io/100DaysJS/Day2/",
+      code: "https://github.com/Koya-Madhusudhana-Rao/100DaysJS/tree/main/Day2",
       description: "A simple to-do app with add & delete features."
     }
     // Add more projects here
