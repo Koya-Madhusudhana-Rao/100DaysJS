@@ -1,0 +1,77 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: 'Segoe UI', sans-serif;
+    background: #f4f4f4;
+    padding: 20px;
+  }
+  
+  header {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  .projects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 20px;
+    width: 100%;
+  }
+  
+  .project-card {
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+    transition: transform 0.2s ease;
+  }
+  
+  .project-card:hover {
+    transform: scale(1.03);
+  }
+  
+  .project-card h3 {
+    font-size: 1.1rem;
+    margin-bottom: 8px;
+  }
+  
+  .project-card p {
+    font-size: 0.95rem;
+    color: #666;
+    margin-bottom: 12px;
+  }
+  
+  .project-card a {
+    margin-right: 12px;
+    color: #1782db;
+    text-decoration: none;
+    font-weight: 500;
+  }
+  
+  .project-card a:hover {
+    text-decoration: underline;
+  }
+  
+  @media (max-width: 400px) {
+    h1 {
+      font-size: 1.4rem;
+    }
+  
+    .project-card h3 {
+      font-size: 1rem;
+    }
+  
+    .project-card {
+      padding: 15px;
+    }
+  }
+  
