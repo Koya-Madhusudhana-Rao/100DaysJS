@@ -8,10 +8,10 @@ const projects = [
     },
     {
       id: 2,
-      title: "To-Do List",
+      title: "Age-Calculator",
       demo: "https://koya-madhusudhana-rao.github.io/100DaysJS/Day2/",
       code: "https://github.com/Koya-Madhusudhana-Rao/100DaysJS/tree/main/Day2",
-      description: "A simple to-do app with add & delete features."
+      description: "A simple site to calculate your Age."
     }
     // Add more projects here
   ];
