@@ -9,8 +9,8 @@ const projects = [
     {
       id: 2,
       title: "Age-Calculator",
-      demo: "https://koya-madhusudhana-rao.github.io/100DaysJS/Day2/",
-      code: "https://github.com/Koya-Madhusudhana-Rao/100DaysJS/tree/main/Day2",
+      demo: "https://koya-madhusudhana-rao.github.io/100DaysJS/Day_2/",
+      code: "https://github.com/Koya-Madhusudhana-Rao/100DaysJS/tree/main/Day_2",
       description: "A simple site to calculate your Age."
     }
     // Add more projects here
