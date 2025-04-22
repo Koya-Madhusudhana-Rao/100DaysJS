@@ -12,6 +12,13 @@ const projects = [
       demo: "https://koya-madhusudhana-rao.github.io/100DaysJS/Day_2/",
       code: "https://github.com/Koya-Madhusudhana-Rao/100DaysJS/tree/main/Day_2",
       description: "A simple site to calculate your Age."
+    },
+    {
+      id: 3,
+      title: "Stop-Watch",
+      demo: "https://koya-madhusudhana-rao.github.io/100DaysJS/Day_3/",
+      code: "https://github.com/Koya-Madhusudhana-Rao/100DaysJS/tree/main/Day_3",
+      description: "A simple site to calculate your Age."
     }
     // Add more projects here
   ];
