@@ -20,6 +20,14 @@ const projects = [
       code: "https://github.com/Koya-Madhusudhana-Rao/100DaysJS/tree/main/Day_3",
       description: "A simple site to calculate your Age."
     }
+    ,
+    {
+      id: 4,
+      title: "Pounds to Kg converter",
+      demo: "https://koya-madhusudhana-rao.github.io/100DaysJS/Day_4/",
+      code: "https://github.com/Koya-Madhusudhana-Rao/100DaysJS/tree/main/Day_4",
+      description: "A simple site to calculate your Age."
+    }
     // Add more projects here
   ];
   
